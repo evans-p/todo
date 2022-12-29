@@ -1,0 +1,9 @@
+.TodoForm {
+  width: 250px;
+}
+
+.TodoForm form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
